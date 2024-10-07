@@ -6,12 +6,12 @@ Gues My Number JavaScript pratiği yapmak için geliştirdiğim bir sayı tahmin
 - Rastegele Sayı Üretme: Math random() fonksiyonu kullanılarak rastgele sayı üretilir.
 - DOM manipülasyonları: JavaScript kullanılarak HTML elementlerine erişilir ve oyun sırasında kullanıcıya mesajlar verilir, stilde değişiklikler yapılır.
 - Skor Takibi: Her yanlış tahminde skor bir azalır. Doğru tahminde yüksek skor güncellenir.
-- Tekrat başlama: Oyun bittikten sonra again butonuna basılarak oyun sıfırlanaiblir.
+- Tekrat başlama: Oyun bittikten sonra again butonuna basılarak oyun sıfırlanabilir.
 
 ## Kurulum:
 - Projenin yerel ortamda çalıştırılması için aşağıdaki adımları takip edebilirsiniz:
 
-Projeyi klonlayın ya da zip dosyası olarak indirin:
+- Projeyi klonlayın ya da zip dosyası olarak indirin:
   ```bash
   git clone <repository-url>
   ```
