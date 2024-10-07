@@ -3,7 +3,7 @@
 Gues My Number JavaScript pratiği yapmak için geliştirdiğim bir sayı tahmin etme oyunudur.1 ile 20 arasındaki rastgele seçilen bir sayı tahmin edilir. Bu projede Java Script kullanılarak DOM manipülasyonları yapılır ve oyunun işleyişi dinamik hale getirilir.
 
 ## Özellikler
-- Rastegele Sayı Üretme: Math random() fonksiyonu kullanılarak rastgele sayı üretilir.7
+- Rastegele Sayı Üretme: Math random() fonksiyonu kullanılarak rastgele sayı üretilir.
 - DOM manipülasyonları: JavaScript kullanılarak HTML elementlerine erişilir ve oyun sırasında kullanıcıya mesajlar verilir, stilde değişiklikler yapılır.
 - Skor Takibi: Her yanlış tahminde skor bir azalır. Doğru tahminde yüksek skor güncellenir.
 - Tekrat başlama: Oyun bittikten sonra again butonuna basılarak oyun sıfırlanaiblir.
